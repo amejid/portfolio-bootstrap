@@ -1,0 +1,6 @@
+header {
+   background-image: url(images/Header-bg@2x.png); 
+   background-size: contain;
+   height: 100vh;
+   background-repeat: no-repeat;
+}
