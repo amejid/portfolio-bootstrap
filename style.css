@@ -1,6 +1,14 @@
 header {
-   background-image: url(images/Header-bg@2x.png); 
-   background-size: contain;
-   height: 100vh;
-   background-repeat: no-repeat;
+  background-image: url(images/Header-bg@2x.png);
+  background-size: contain;
+  height: 100vh;
+  background-repeat: no-repeat;
+}
+
+.footer {
+  background-color: #6070ff;
+  background-image: url(images/contact\ form\ background\ shapes@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
